@@ -1,6 +1,7 @@
-# Telegram Michbot
+# Telegram MichBot
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+This application manages [MichBot](https://t.me/cominghome_bot) on Telegram
+using Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
